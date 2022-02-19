@@ -8630,11 +8630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sarah\\SMS.Web\\SMS.Web.csproj",
+      "projectUniqueName": "C:\\Code\\Practical4\\SMS.Web.csproj",
       "projectName": "SMS.Web",
-      "projectPath": "C:\\Users\\Sarah\\SMS.Web\\SMS.Web.csproj",
+      "projectPath": "C:\\Code\\Practical4\\SMS.Web.csproj",
       "packagesPath": "C:\\Users\\Sarah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sarah\\SMS.Web\\obj\\",
+      "outputPath": "C:\\Code\\Practical4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sarah\\AppData\\Roaming\\NuGet\\NuGet.Config",

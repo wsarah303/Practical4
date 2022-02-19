@@ -7,7 +7,6 @@ C:\Users\Sarah\SMS.Web\bin\Debug\net6.0\SMS.Web.runtimeconfig.json
 C:\Users\Sarah\SMS.Web\bin\Debug\net6.0\SMS.Web.dll
 C:\Users\Sarah\SMS.Web\bin\Debug\net6.0\ref\SMS.Web.dll
 C:\Users\Sarah\SMS.Web\bin\Debug\net6.0\SMS.Web.pdb
-C:\Users\Sarah\SMS.Web\obj\Debug\net6.0\SMS.Web.csproj.AssemblyReference.cache
 C:\Users\Sarah\SMS.Web\obj\Debug\net6.0\SMS.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Sarah\SMS.Web\obj\Debug\net6.0\SMS.Web.AssemblyInfoInputs.cache
 C:\Users\Sarah\SMS.Web\obj\Debug\net6.0\SMS.Web.AssemblyInfo.cs
