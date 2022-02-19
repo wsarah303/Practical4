@@ -1,0 +1,19 @@
+﻿
+@model AboutViewModel
+@{
+    ViewData["Title"] = "About";
+}
+
+
+
+ <h1 class="card-title">@Html.DisplayFor(model => model.Title)</h1>
+
+<div class="card text-white bg-primary mb-4">
+    <div class="card-body">
+                
+                <p class="card-text">@Html.DisplayFor(model => model.Message)</p>
+                <p class="card-text"> Number of days since page created:
+    @Html.DisplayFor(model => model.Days)</p>
+            </div>
+
+</div>
