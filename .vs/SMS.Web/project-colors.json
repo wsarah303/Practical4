@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "53adf770-ac39-429e-a717-f50bf38d0496": {
+      "ProjectGuid": "53adf770-ac39-429e-a717-f50bf38d0496",
+      "DisplayName": "SMS.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
